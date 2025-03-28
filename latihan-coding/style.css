@@ -1,0 +1,77 @@
+.body{
+    background-color: gray;
+    font: 16px/28px arial, sans-serif;
+    background-image: url(walpaper.jpg);
+    
+}
+
+.CONTAINER{
+    width: 800px;
+    margin: auto;
+    background-color: white;
+}
+
+.header{
+    padding:20px;
+    padding-bottom:10px;
+}
+
+.JUDUL{
+    font-size: 40px;
+    font-weight: bold;
+}
+.header ul li{
+    display: inline-block;
+    margin-top: ;
+    margin-right: 10px;
+}
+
+.header a{
+    text-decoration: none;
+    color: salmon;
+    padding: 3px;
+}
+
+.header a:hover {
+    background-color: lightskyblue;
+    color: white;
+}
+
+.hero{
+    height:280px;
+    background-image:url(download\ 4.jpg);
+    background-size: cover;
+    background-position: 0 -10px;
+    border-bottom: 5px solid lightskyblue;
+    border-top:5px solid salmon
+}
+
+.content{
+    padding:20px;
+}
+
+.content h2{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.PENULIS{
+    font-size: 11px;
+    margin-top: -10px;
+}
+
+.content p{
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+.footer {
+    background-color: black;
+    padding: 10px;
+}
+
+.copy{
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}
